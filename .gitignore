@@ -1,0 +1,5 @@
+# The following files will be ignored
+hostsNTNU.txt
+who.txt
+availablehosts.txt
+__pycache__/*
